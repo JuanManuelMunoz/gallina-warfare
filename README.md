@@ -10,7 +10,9 @@ This repo is an optional project.
 
 We doesn't have so much time to produce a videogame in 2 months so we made a little demo wich is stored in this repo.
 
-> We think that the final version will come around Juny 2019.
+> **NOTE:** The demo is currently in development! It will come in the next few weeks! Be patient!
+
+ We think that the final version will come around **Juny 2019**.
 
 We are working a lot (ñe thats not true because **I do everything related from code** but my team is very excited about makeing textures for a real videogame.
 
