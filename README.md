@@ -10,7 +10,7 @@ This repo is an optional project.
 
 We doesn't have so much time to produce a videogame in 2 months so we made a little demo wich is stored in this repo.
 
-> **NOTE:** The demo is currently in development! It will come in the next few weeks! Be patient!
+> **NOTE:** The demo is currently in development! It will come in the next few weeks! Please be patient!
 
  We think that the final version will come around **Juny 2019**.
 
