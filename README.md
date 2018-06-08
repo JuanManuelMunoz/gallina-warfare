@@ -1,7 +1,7 @@
 # Gallina Warfare
 ## Made by
 * Aran Roig
-* Arnau Fernandez listo
+* Arnau Fernandez 
 * Juanma Muñoz
 * Xabi Barranco
 * Pau Goba
