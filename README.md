@@ -2,7 +2,7 @@
 ## Made by
 * Aran Roig
 * Arnau Fernandez listo
-* Juanma yoquese
+* Juanma Muñoz
 * Xabi Barranco
 * Pau Goba
 
